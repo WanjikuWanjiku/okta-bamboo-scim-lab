@@ -3,17 +3,14 @@
 ## Overview
 This repository documents a hands-on IAM lab focused on integrating BambooHR with Okta for automated user provisioning.
 
-The lab was completed as part of the LinkedIn Learning course:
-"IAM Fundamentals with Okta" by Andrew Chanthaphone.
-
 ## Course Reference
 
 This lab was completed as part of the LinkedIn Learning course:
 
-- [IAM Fundamentals with Okta – LinkedIn Learning](https://www.linkedin.com/learning/iam-fundamentals-with-okta/integration-with-hr-systems-for-seamless-lifecycle-managment?resume=false&utm_source=chatgpt.com)
+- [IAM Fundamentals with Okta – LinkedIn Learning](https://www.linkedin.com/learning/iam-fundamentals-with-okta/integration-with-hr-systems-for-seamless-lifecycle-managment?)
 
 Instructor:
-- :contentReference[oaicite:1]{index=1}
+- Andrew Chanthaphone
 
 ## Objectives
 - Configure BambooHR API access
